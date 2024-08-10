@@ -22,7 +22,7 @@ public class Circunferencia {
         System.out.println("El área de la circunferencia es: " + area);
 
         //Primer cambio para git
-        System.err.println("Este es el primer cambio");
+        System.err.println("Este es el tercer cambio");
 
         // Cerrar el objeto Scanner
         scanner.close();
