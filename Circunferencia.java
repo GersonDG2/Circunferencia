@@ -1,4 +1,4 @@
-import java.util.Scanner;
+7import java.util.Scanner;
 
 /**
  * fue creado para calcular el area de una circunferencia
@@ -20,6 +20,9 @@ public class Circunferencia {
 
         // Mostrar el área de la circunferencia
         System.out.println("El área de la circunferencia es: " + area);
+
+        //Primer cambio para git
+        System.err.println("Este es el primer cambio");
 
         // Cerrar el objeto Scanner
         scanner.close();
