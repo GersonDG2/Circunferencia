@@ -1,4 +1,4 @@
-7import java.util.Scanner;
+import java.util.Scanner;
 
 /**
  * fue creado para calcular el area de una circunferencia
